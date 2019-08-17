@@ -10,8 +10,6 @@ valarchie 的技术小屋
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://vc2x.com/my-github-repos)
-* [仅供测试](http://vc2x.com/articles/2019/08/14/1565780847572.html)
 * [世界，你好！](http://vc2x.com/hello-solo)
 
 
