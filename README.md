@@ -1,4 +1,4 @@
-<p align="center"><img alt="valarchie 的技术小屋" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="valarchie 的技术小屋" src="/skins/personal/monitor.png"></p><h2 align="center">
 valarchie 的技术小屋
 </h2>
 
@@ -10,6 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
+* [面向对象编程之六大设计原则-SOLID](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 * [世界，你好！](http://vc2x.com/hello-solo)
 
 
