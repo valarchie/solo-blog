@@ -10,7 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
-* [面向对象编程之六大设计原则-SOLID](http://vc2x.com/articles/2019/08/19/1566223268202.html)
+* [面向对象编程之七大设计原则](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 * [世界，你好！](http://vc2x.com/hello-solo)
 
 
