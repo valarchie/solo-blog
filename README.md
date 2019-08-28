@@ -1,4 +1,4 @@
-<p align="center"><img alt="valarchie 的技术小屋" src="/skins/personal/monitor.png"></p><h2 align="center">
+<p align="center"><img alt="valarchie 的技术小屋" src="http://vc2x.com/skins/personal/monitor.png"></p><h2 align="center">
 valarchie 的技术小屋
 </h2>
 
