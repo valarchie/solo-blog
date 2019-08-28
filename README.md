@@ -1,4 +1,4 @@
-<p align="center"><img alt="valarchie 的技术小屋" src="http://vc2x.com/skins/personal/monitor.png"></p><h2 align="center">
+<p align="center"><img alt="valarchie 的技术小屋" src="/skins/personal/monitor.png"></p><h2 align="center">
 valarchie 的技术小屋
 </h2>
 
@@ -10,8 +10,12 @@ valarchie 的技术小屋
 
 ### 最新
 
-* [GOF设计模式小白教程之抽象工厂](http://vc2x.com/articles/2019/08/27/1566911407928.html)
-* [软件三原则的个人理解](http://vc2x.com/articles/2019/08/26/1566828677950.html)
+* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
+* [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
+* [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
+* [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
+* [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
+* [DRY、KISS、YAGNI三原则的理解](http://vc2x.com/articles/2019/08/26/1566828677950.html)
 * [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [面向对象编程之七大设计原则](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 
