@@ -35,8 +35,8 @@ valarchie 的技术小屋
 
 * [面向对象编程之七大设计原则](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 * [DRY、KISS、YAGNI三原则的理解](http://vc2x.com/articles/2019/08/26/1566828677950.html)
-* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
+* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
 
