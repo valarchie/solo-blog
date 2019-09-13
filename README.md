@@ -10,6 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
+* [四种线程池的解析](http://vc2x.com/articles/2019/09/13/1568313221187.html)
 * [负载均衡的多种算法总结](http://vc2x.com/articles/2019/09/11/1568215393336.html)
 * [为什么要使用SpringIOC？](http://vc2x.com/articles/2019/09/11/1568140055310.html)
 * [Spring IOC过程源码解析](http://vc2x.com/articles/2019/09/10/1568056055049.html)
@@ -29,7 +30,6 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
-* [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
 
 ### 热门
 
@@ -38,9 +38,10 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
 * [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
-* [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
+* [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
+* [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
 * [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 
 
