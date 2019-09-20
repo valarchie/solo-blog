@@ -10,6 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
+* [生产者消费者模式的四种实现方式](http://vc2x.com/articles/2019/09/20/1568942243734.html)
 * [随机洗牌的算法](http://vc2x.com/articles/2019/09/17/1568726124958.html)
 * [FixedThreadPool vs CachedThreadPool](http://vc2x.com/articles/2019/09/17/1568650653725.html)
 * [四种线程池的解析](http://vc2x.com/articles/2019/09/13/1568313221187.html)
@@ -29,22 +30,22 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
 * [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
-* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
 
 ### 热门
 
 * [面向对象编程之七大设计原则](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 * [DRY、KISS、YAGNI三原则的理解](http://vc2x.com/articles/2019/08/26/1566828677950.html)
-* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
+* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
 * [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
 * [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
 * [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
-* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
+* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
+* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
 
 
 
