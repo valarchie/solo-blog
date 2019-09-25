@@ -38,15 +38,15 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
 * [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
-* [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
+* [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
 * [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
 * [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
 * [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
-* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
+* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
 
 
