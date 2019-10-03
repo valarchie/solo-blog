@@ -36,8 +36,8 @@ valarchie 的技术小屋
 * [面向对象编程之七大设计原则](http://vc2x.com/articles/2019/08/19/1566223268202.html)
 * [DRY、KISS、YAGNI三原则的理解](http://vc2x.com/articles/2019/08/26/1566828677950.html)
 * [GOF设计模式小白教程之抽象工厂模式](http://vc2x.com/articles/2019/08/27/1566911407928.html)
-* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
+* [GRASP设计原则](http://vc2x.com/articles/2019/08/25/1566743132477.html)
 * [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
 * [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
@@ -49,8 +49,8 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
 * [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
 * [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
-* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
+* [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
 
 
