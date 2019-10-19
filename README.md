@@ -47,19 +47,19 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
 * [GOF设计模式小白教程之命令模式](http://vc2x.com/articles/2019/08/31/1567184640690.html)
-* [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
 * [GOF设计模式小白教程之观察者模式](http://vc2x.com/articles/2019/09/02/1567353976664.html)
+* [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
 * [GOF设计模式小白教程之中介者模式](http://vc2x.com/articles/2019/09/01/1567347146585.html)
 * [GOF设计模式小白教程之迭代器模式](http://vc2x.com/articles/2019/09/01/1567337727496.html)
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
-* [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
+* [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
 
 ### 热议
 
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
 * [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
+* [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
 * [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
-* [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
 
 ---
 
