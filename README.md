@@ -52,14 +52,14 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之命令模式](http://vc2x.com/articles/2019/08/31/1567184640690.html)
 * [GOF设计模式小白教程之迭代器模式](http://vc2x.com/articles/2019/09/01/1567337727496.html)
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
-* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
+* [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
 
 ### 热议
 
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
 * [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
-* [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
+* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
 
 ---
 
