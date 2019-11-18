@@ -10,6 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
+* [领域驱动设计DDD之聚合](http://vc2x.com/articles/2019/11/18/1574070374456.html)
 * [领域驱动设计DDD之领域服务](http://vc2x.com/articles/2019/11/16/1573866920179.html)
 * [领域驱动设计DDD之值对象](http://vc2x.com/articles/2019/11/09/1573313718268.html)
 * [领域驱动设计DDD之实体](http://vc2x.com/articles/2019/11/08/1573228382287.html)
@@ -29,7 +30,6 @@ valarchie 的技术小屋
 * [随机洗牌的算法](http://vc2x.com/articles/2019/09/17/1568726124958.html)
 * [FixedThreadPool vs CachedThreadPool](http://vc2x.com/articles/2019/09/17/1568650653725.html)
 * [四种线程池的解析](http://vc2x.com/articles/2019/09/13/1568313221187.html)
-* [负载均衡的多种算法总结](http://vc2x.com/articles/2019/09/11/1568215393336.html)
 
 ### 热门
 
@@ -41,8 +41,9 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之适配器模式](http://vc2x.com/articles/2019/08/28/1567003870694.html)
 * [GOF设计模式小白教程之工厂方法模式](http://vc2x.com/articles/2019/08/27/1566915685862.html)
 * [GOF设计模式小白教程之原型模式](http://vc2x.com/articles/2019/08/28/1566996400628.html)
-* [Spring IOC过程源码解析](http://vc2x.com/articles/2019/09/10/1568056055049.html)
 * [GOF设计模式小白教程之建造者模式](http://vc2x.com/articles/2019/08/28/1566923749074.html)
+* [Spring IOC过程源码解析](http://vc2x.com/articles/2019/09/10/1568056055049.html)
+* [负载均衡的多种算法总结](http://vc2x.com/articles/2019/09/11/1568215393336.html)
 * [GOF设计模式小白教程之状态模式](http://vc2x.com/articles/2019/09/02/1567428119064.html)
 * [GOF设计模式小白教程之策略模式](http://vc2x.com/articles/2019/09/02/1567431733717.html)
 * [GOF设计模式小白教程之备忘录模式](http://vc2x.com/articles/2019/09/01/1567351799096.html)
@@ -50,9 +51,8 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之模板方法模式](http://vc2x.com/articles/2019/09/02/1567433576191.html)
 * [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
-* [GOF设计模式小白教程之观察者模式](http://vc2x.com/articles/2019/09/02/1567353976664.html)
 * [GOF设计模式小白教程之命令模式](http://vc2x.com/articles/2019/08/31/1567184640690.html)
-* [GOF设计模式小白教程之中介者模式](http://vc2x.com/articles/2019/09/01/1567347146585.html)
+* [GOF设计模式小白教程之观察者模式](http://vc2x.com/articles/2019/09/02/1567353976664.html)
 
 ### 热议
 
@@ -64,6 +64,7 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
 * [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
 * [GOF设计模式小白教程之迭代器模式](http://vc2x.com/articles/2019/09/01/1567337727496.html)
+* [GOF设计模式小白教程之中介者模式](http://vc2x.com/articles/2019/09/01/1567347146585.html)
 
 ---
 
