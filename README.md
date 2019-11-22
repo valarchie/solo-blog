@@ -10,6 +10,7 @@ valarchie 的技术小屋
 
 ### 最新
 
+* [领域驱动设计DDD之资源库](http://vc2x.com/articles/2019/11/21/1574311679774.html)
 * [领域驱动设计DDD之工厂](http://vc2x.com/articles/2019/11/19/1574177007348.html)
 * [领域驱动设计DDD之聚合](http://vc2x.com/articles/2019/11/18/1574070374456.html)
 * [领域驱动设计DDD之领域服务](http://vc2x.com/articles/2019/11/16/1573866920179.html)
@@ -29,7 +30,6 @@ valarchie 的技术小屋
 * [同步容器和并发容器总结](http://vc2x.com/articles/2019/09/21/1569027971194.html)
 * [生产者消费者模式的四种实现方式](http://vc2x.com/articles/2019/09/20/1568942243734.html)
 * [随机洗牌的算法](http://vc2x.com/articles/2019/09/17/1568726124958.html)
-* [FixedThreadPool vs CachedThreadPool](http://vc2x.com/articles/2019/09/17/1568650653725.html)
 
 ### 热门
 
@@ -49,18 +49,19 @@ valarchie 的技术小屋
 * [GOF设计模式小白教程之策略模式](http://vc2x.com/articles/2019/09/02/1567431733717.html)
 * [GOF设计模式小白教程之备忘录模式](http://vc2x.com/articles/2019/09/01/1567351799096.html)
 * [GOF设计模式小白教程之访问者模式](http://vc2x.com/articles/2019/09/03/1567441029372.html)
-* [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之模板方法模式](http://vc2x.com/articles/2019/09/02/1567433576191.html)
+* [GOF设计模式小白教程之代理模式](http://vc2x.com/articles/2019/08/30/1567168824293.html)
 * [GOF设计模式小白教程之装饰者模式](http://vc2x.com/articles/2019/08/29/1567089347009.html)
 * [GOF设计模式小白教程之观察者模式](http://vc2x.com/articles/2019/09/02/1567353976664.html)
 
 ### 热议
 
-* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
+* [FixedThreadPool vs CachedThreadPool](http://vc2x.com/articles/2019/09/17/1568650653725.html)
+* [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
 * [GOF设计模式小白教程之单例模式](http://vc2x.com/articles/2019/08/28/1566998769428.html)
 * [GOF设计模式小白教程之桥接模式](http://vc2x.com/articles/2019/08/29/1567086811036.html)
 * [GOF设计模式小白教程之组合模式](http://vc2x.com/articles/2019/08/29/1567094110028.html)
-* [GOF设计模式小白教程之享元模式](http://vc2x.com/articles/2019/08/30/1567140860991.html)
+* [GOF设计模式小白教程之门面模式](http://vc2x.com/articles/2019/08/30/1567097336088.html)
 * [GOF设计模式小白教程之责任链模式](http://vc2x.com/articles/2019/08/30/1567173749378.html)
 * [GOF设计模式小白教程之命令模式](http://vc2x.com/articles/2019/08/31/1567184640690.html)
 * [GOF设计模式小白教程之解释器模式](http://vc2x.com/articles/2019/09/01/1567330721988.html)
